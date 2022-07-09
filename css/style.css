@@ -1,0 +1,213 @@
+body{
+  overflow-x: hidden;
+  -webkit-cursor: url('image/download-removebg-preview.png'),auto;
+}
+::-webkit-scrollbar{
+  width:15px;
+
+}
+::-webkit-scrollbar-track{
+  width:10px;
+  background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb{
+  width:5px;
+  background-color: #123bec;
+
+}
+.header{
+  background-color: #123bec;
+}
+/* Chariter Header CSS code starts here*/
+.border-right{
+  border-right: 3px solid #ffffff;
+}
+ .social-media-icon .bi{
+  font-size: 15px;
+  margin-right: 8px;
+}
+/* Chariter Header CSS code Ends here*/
+/* Chariter Navigation CSS code Starts here*/
+.donate{
+  background-color: #123bec;
+  padding:8px 20px;
+  border-radius: 15px;
+}
+.navbar-toggler-icon{
+  color: #123bec;
+  font-size: 28px;
+
+}
+.navbar .navbar-nav .nav-item{
+  margin-right:17px;
+  font-size: 17px;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+  color: #000000;
+  font-weight: bold;
+  font-family:'Roboto', sans-serif;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+  color: #123bec;
+  font-weight: bold;
+}
+/* Chariter Navigation CSS code Ends here*/
+
+/* Chariter Banner CSS code Starts here*/
+.carousel-indicators li{
+  border-radius: 50%;
+  width:15px;
+  height:15px;
+}
+.myheading1 {
+  font-size: 50px;
+}
+.myheading2 {
+  font-size: 50px;
+}
+.myheading3 {
+  font-size: 45px;
+}
+.active-cases{
+  background-color:#123bec;
+  color:#ffffff;
+  padding:15px 25px;
+  font-size:13px;
+  border-radius:17px;
+}
+
+/* Chariter Banner CSS code Ends here*/
+
+
+/* Chariter Causes we are serving CSS code Ends here*/
+.title{
+  font-weight: bold;
+}
+.card-title{
+  font-weight: bold;
+}
+/* Chariter Causes we are serving CSS code Ends here*/
+
+
+/*Chariter Who we are?  Section Starts Here*/
+.who-we-are{
+  font-weight: bold;
+  font-size: 17px;
+}
+.chariter{
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.8;
+}
+.margin-left{
+  margin-left: 20px;
+}
+
+.learn-more{
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 12px;
+}
+/*Chariter Who we are?  Section Ends Here*/
+/*Chariter We serve for peoples  Section Ends Here*/
+.pure-food-and-water{
+  font-size: 19px;
+  font-weight: bold;
+}
+
+/* they need your help css code starts here*/
+.They-Need-Your-Help{
+   padding: 20px;
+}
+.help-box{
+  background-color: #fff;
+  border-radius: 10px;
+  width: 430px;
+  height: 390px;
+  padding: 20px;
+  float:right;
+  margin: 50px 50px;
+}
+.help-heading{
+  padding-top:20px;
+  padding-bottom:10px;
+}
+.help-des{
+  font-size: 14px;
+}
+.donate-btn{
+  background-color: #123bec;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 15px;
+  display: inline-block;
+
+}
+.donate-btn:hover{
+  color: #fff;
+}
+
+
+
+
+
+/* they need your help css code starts here*/
+
+/* Chariter Footer CSS Code*/
+.container-fluid{
+  background-color: #09009b;
+}
+.about-us{
+  font-size: 12px;
+  padding: 20px 25px;
+}
+.footer-section .bottom-nav .bottom-nav-item{
+  margin-bottom: 20px;
+}
+.footer-section .bottom-nav2 .bottom-nav-item2{
+  margin-bottom: 15px;
+}
+.subscribe{
+  margin-top:23px;
+}
+.email1{
+  position: relative;
+}
+.send-button{
+  position: relative;
+  left:-10px;
+  top:-6px;
+}
+
+
+
+
+@media screen and (max-width: 900px) {
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 1000px) {
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}

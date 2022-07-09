@@ -1,0 +1,147 @@
+@media only screen and (max-width:576px){
+  .myheading1{
+    font-size: 25px;
+    display: none;
+
+  }
+
+  .myheading2{
+    font-size: 25px;
+    display: none;
+
+  }
+  .myheading3{
+    font-size: 25px;
+    display: none;
+}
+  .active-cases{
+    background-color: #123bec;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+  }
+  .Who-we-are{
+    margin-top: 30px;
+  }
+  .They-Need-Your-Help{
+    background-attachment: scroll;
+  }
+  .help-box{
+    max-width: 100%;
+    height: auto;
+    padding:5px 10px;
+  }
+.help-heading{
+  font-size: 15px;
+}
+.help-des{
+  font-size: 10px;
+}
+.donate-btn{
+  font-size: 12px;
+  padding: 10px 10px;
+}
+  .join-with-us-img{
+    margin-top: 20px;
+  }
+  input[type="email"]{
+    width: 100%;
+    border: none;
+  }
+  .send-button{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+
+
+}
+@media only screen and (min-width:577px) and (max-width:767px){
+  .myheading1{
+    font-size: 35px;
+    display: block;
+  }
+  .p1{
+    font-size: 12px;
+  }
+  .myheading2{
+    font-size: 30px;
+    display: block;
+  }
+  .p2{
+    font-size: 12px;
+  }
+  .myheading3{
+    font-size: 30px;
+    display: block;
+  }
+  .p3{
+    font-size: 12px;
+  }
+  .They-Need-Your-Help{
+    background-attachment: scroll;
+  }
+.help-box{
+  height: auto;
+}
+  input[type="email"]{
+    width: 100%;
+    border: none;
+  }
+  .send-button{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+  .myheading1{
+    font-size: 40px;
+  }
+  .myheading2{
+    font-size: 35px;
+  }
+  .myheading3{
+    font-size: 35px;
+  }
+  .They-Need-Your-Help{
+
+    background-attachment: scroll;
+  }
+.help-box{
+  height: auto;
+}
+
+  input[type="email"]{
+    width: 100%;
+    border: none;
+  }
+  .send-button{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+  .myheading1{
+    font-size: 45px;
+  }
+  .myheading2{
+    font-size: 40px;
+  }
+  .myheading3{
+    font-size: 40px;
+  }
+.help-box{
+  height: auto;
+}
+  input[type="email"]{
+    width: 100%;
+    border: none;
+  }
+  .send-button{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+}
