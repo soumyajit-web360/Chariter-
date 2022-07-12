@@ -1,2 +1,2 @@
 # Chariter-
-https://soumyajit-webdev.github.io/Chariter-/
+https://soumyajit-web360.github.io/Chariter-/
